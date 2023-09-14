@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import sqlite3
 import matplotlib.pyplot as plt
 
@@ -66,4 +66,4 @@ plt.ylabel("Temp (C)")
 plt.xlabel("Year (decade)") 
 plt.savefig("co2_temp_1.png")
 plt.show() 
->>>>>>> ac1e7bddff3ac00becf03c3cc17e067c33f536b3
+
