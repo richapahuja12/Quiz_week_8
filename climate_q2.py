@@ -5,7 +5,7 @@ data = pd.read_csv('climate.csv')
 
 years = data['Year']
 co2 = data['CO2']
-temp = ['Temperature']
+temp = data['Temperature']
 
 plt.figure(figsize=(10,6))
 
